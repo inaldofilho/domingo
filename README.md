@@ -1,4 +1,4 @@
-# domingo
- domingo promoções
-projeto website
-<img src="./imagens/inaldo" alt="c1">
+# domingo promoções
+<li>projeto website</li>
+<li>link do projeto</li>
+https://inaldofilho.github.io/house/
